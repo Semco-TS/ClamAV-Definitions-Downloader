@@ -1,0 +1,5 @@
+# Core runtime dependency
+cvdupdate>=1.1.0
+
+# Packaging dependency (for compiling the .exe)
+pyinstaller>=6.0.0
